@@ -1,3 +1,4 @@
 public string  testfun(){
-	println("hello world")
+	println("hello world");
+	//this is a comment
 }
